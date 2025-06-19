@@ -7,3 +7,7 @@ The CosMx SMI, MERFISH and Xenium raw data generated in this study have been dep
 # Abstract
 
 Imaging-based spatial transcriptomics (ST) is evolving as a pivotal technology in studying tumor biology and associated microenvironments. However, the strengths of the commercially available ST platforms in studying spatial biology have not been systematically evaluated using rigorously controlled experiments. We use serial 5 m sections of formalin-fixed, paraffin-embedded surgically resected lung adenocarcinoma and pleural mesothelioma samples in tissue microarrays to compare the performance of the ST platforms (CosMx, MERFISH, and Xenium (uni/multi-modal)) in reference to bulk RNA sequencing, multiplex immunofluorescence, GeoMx, and hematoxylin and eosin staining data. In addition to an objective assessment of automatic cell segmentation and phenotyping, we perform a manual phenotyping evaluation to assess pathologically meaningful comparisons between ST platforms. Here, we show the intricate differences between the ST platforms, reveal the importance of parameters such probe design in determining the data quality, and suggest reliable workflows for accurate spatial profiling and molecular discovery.
+
+# Acknowledgement
+
+This study was conducted in collaboration with Drs. Cara Haymaker and Luisa M. Solis Soto from the Translational Molecular Pathology Immunoprofiling Laboratory (TMP-IL) at the University of Texas MD Anderson Cancer Center. 
