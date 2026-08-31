@@ -4,6 +4,8 @@ Code repository for our paper. Raw data are in the GEO database. Source data of 
 
 The CosMx SMI, MERFISH and Xenium raw data generated in this study have been deposited in the Gene Expression Ominibus (GEO) database (https://www.ncbi.nlm.nih.gov/geo/) under accession code GSE299786, GSE299886 and GSE300007, respectively.
 
+Celltype annotations are available in annotations folder of this repository.
+
 Study was published in Nature Communications. https://www.nature.com/articles/s41467-025-63414-1 
 
 # Abstract
